@@ -1,0 +1,64 @@
+concatenation = combine the 2 word (use + operator)
+
+
+
+Function: 
+len(str): to find the length of the string
+
+Indexing: single letter position.(0,1,2,3,4,5).help to excess character
+
+
+Slicing:
+     Accessing part of the string
+      str[starting_index:ending_idx]
+
+function:
+    variable_name.endswith("string_alphabet")//return true if str endwith string_alphabet
+       variable_name.capitalize() //first letter capital
+        variable_name.replace(old,new)//replace the new char
+           variable_name.find(word)//to find the word
+               variable_name.count("string")//to count the string
+
+conditation statement:
+ if else statement
+if(condation):
+   statement
+
+
+function of the list
+  variable_name.append(to append variable_name)
+  variable_name.sort() /used to make the number in accending order
+   variable_name.sort(reverse=True) / decending order
+   variable_name.reverse() / reverse 
+  variable_name..insert(insexname,addname)
+
+
+Dictionary
+   dictionary are used to store data value in key:value pair
+   they are undorder, mutable(changeable) & don't allow duplicate keys
+
+    store the set of value. built in datatype
+for example:
+   dict = {"name": "aniruddha"}
+
+
+
+set:
+   is the collection of the unordered item.
+   Each element is unique & immuitable
+   set cant accept the list and dictionary
+   it ignore the duplicate value.
+   example: colle = {1,2,3,3,4,5}
+       it print 1,2,3,4,5
+
+
+
+
+
+
+
+
+
+
+
+   
